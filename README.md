@@ -69,7 +69,7 @@ This server manages the marketplace listings and real-time sync.
 
 ---
 
-## 📖 How to Use
+## How to Use
 1. **Individual Mode:** Go to the Upload screen, snap a photo of a recyclable item (like a notebook or wood), and upload it.
 2. **Company Mode:** Switch to the Profile section and click the **Sparkle Button**.
 3. **Matching:** You will see your uploaded items appear instantly in the "Procurement Needs" hub with a verification badge.
