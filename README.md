@@ -1,10 +1,10 @@
-# ♻️ ReCircuit AI: Global Recycling Marketplace
+# ReCircuit AI: Global Recycling Marketplace
 
 **ReCircuit AI** is a high-fidelity sustainability platform designed to bridge the gap between individual recyclers and industrial procurement needs. Using advanced AI-driven material recognition, the platform enables users to scan waste items, identify recyclable materials, and instantly connect with companies looking for specific resources.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - **AI Material Scanning:** Powered by Google Gemini AI to accurately classify nature-made and industrial materials.
 - **Real-Time Marketplace:** Instant synchronization between user uploads and company procurement needs.
 - **High-Fidelity UI:** A premium, interactive mobile experience built with Jetpack Compose.
@@ -12,7 +12,7 @@
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 The project is divided into three core components:
 1. **AI Service (`WitchHunt`)**: A Python/FastAPI backend that manages image classification via the Gemini API.
 2. **Central Backend (`Node.js`)**: An Express server that handles data management, uploads, and real-time synchronization.
@@ -20,7 +20,7 @@ The project is divided into three core components:
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 - **Android Studio** (Koala or newer)
 - **Node.js & npm**
 - **Python 3.10+**
@@ -28,7 +28,7 @@ The project is divided into three core components:
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. AI Classification Service (Python)
 This service must be running for the "Scan with AI" feature to work.
