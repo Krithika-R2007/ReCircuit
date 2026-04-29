@@ -1,18 +1,8 @@
-# ReCircuit AI: Global Recycling Marketplace
+<h1># ReCircuit AI: Global Recycling Marketplace</h1>
 <div align="center">
   <h3>🏆 Built for the Witch Hunt Hackathon 🏆</h3>
   <p><strong>A high-fidelity sustainability platform bridging the gap between individual recyclers and industrial procurement needs.</strong></p>
 </div>
-<h1>♻️ ReCircuit AI</h1>
-  <p><strong>A Global High-Fidelity Recycling Marketplace</strong></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Hackathon-Witch%20Hunt-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Witch Hunt Hackathon" />
-    <img src="https://img.shields.io/badge/Android-Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-    <img src="https://img.shields.io/badge/AI-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
-    <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20FastAPI-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend" />
-  </p>
-
 
 **ReCircuit AI** is a high-fidelity sustainability platform designed to bridge the gap between individual recyclers and industrial procurement needs. Using advanced AI-driven material recognition, the platform enables users to scan waste items, identify recyclable materials, and instantly connect with companies looking for specific resources.
 
