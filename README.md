@@ -2,6 +2,8 @@
 
 **ReCircuit AI** is a high-fidelity sustainability platform designed to bridge the gap between individual recyclers and industrial procurement needs. Using advanced AI-driven material recognition, the platform enables users to scan waste items, identify recyclable materials, and instantly connect with companies looking for specific resources.
 
+Video demo: https://drive.google.com/file/d/1aakRFigMzwPrLNPHf8pDPk9djRJKC6oL/view?usp=sharing
+
 ---
 
 ## Key Features
