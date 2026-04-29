@@ -1,4 +1,4 @@
-<h1># ReCircuit AI: Global Recycling Marketplace</h1>
+<h1>ReCircuit AI: Global Recycling Marketplace</h1>
 <div align="center">
   <h3>🏆 Built for the Witch Hunt Hackathon 🏆</h3>
   <p><strong>A high-fidelity sustainability platform bridging the gap between individual recyclers and industrial procurement needs.</strong></p>
