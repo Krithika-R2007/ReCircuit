@@ -22,19 +22,19 @@ Video demo: https://drive.google.com/file/d/1aakRFigMzwPrLNPHf8pDPk9djRJKC6oL/vi
 Our ecosystem is structured into three highly decoupled components ensuring scalability and real-time performance:
 
 <details>
-<summary><b>1️⃣ AI Service (<code>WitchHunt Engine</code>)</b></summary>
+<summary><b>1️. AI Service (<code>WitchHunt Engine</code>)</b></summary>
 <br>
 A robust <b>Python/FastAPI</b> backend managing complex image classification via the Gemini API.
 </details>
 
 <details>
-<summary><b>2️⃣ Central Backend (<code>Node.js</code>)</b></summary>
+<summary><b>2️. Central Backend (<code>Node.js</code>)</b></summary>
 <br>
 An <b>Express.js</b> server orchestrating data management, media uploads, and real-time synchronization.
 </details>
 
 <details>
-<summary><b>3️⃣ Mobile Client (<code>Android</code>)</b></summary>
+<summary><b>3️. Mobile Client (<code>Android</code>)</b></summary>
 <br>
 A highly responsive <b>Jetpack Compose</b> application that dynamically adapts its UI for both individual users and corporate procurement teams.
 </details>
@@ -91,6 +91,14 @@ This server manages the marketplace listings and real-time sync.
 ---
 
 ## How to Use
-1. **Individual Mode:** Go to the Upload screen, snap a photo of a recyclable item (like a notebook or wood), and upload it.
-2. **Company Mode:** Switch to the Profile section and click the **Sparkle Button**.
-3. **Matching:** You will see your uploaded items appear instantly in the "Procurement Needs" hub with a verification badge.
+Our platform provides a seamless, two-sided marketplace tailored for both individual contributors and large-scale industrial buyers.
+
+### For Individuals (The Supply)
+1. **Snap & Scan:** Users open the **Upload Screen** and take a photo of their recyclable/upcyclable waste (e.g., paper, electronics, or scrap wood).
+2. **AI Processing:** The image is sent to our `WitchHunt` AI Engine. Google Gemini processes the visual data, automatically categorizing the item, determining its material composition, and assessing its quality.
+3. **One-Tap Listing:** The app autofills the listing details, allowing the user to publish their item to the global marketplace with a single tap.
+
+### For Companies (The Demand)
+1. **Enter Corporate Mode:** Procurement officers can toggle into Company Mode by navigating to their Profile and tapping the **✨ Sparkle Button**.
+2. **Live Procurement Hub:** Companies access a dedicated "Procurement Needs" dashboard that aggregates available materials.
+3. **Instant Smart Matches:** As individuals upload items, they appear *instantly* on the company's dashboard via live sync. Items that perfectly align with a company's raw material needs are flagged with a **High-Fidelity Match** badge, making sustainable procurement effortless.
