@@ -19,10 +19,25 @@ Video demo: https://drive.google.com/file/d/1aakRFigMzwPrLNPHf8pDPk9djRJKC6oL/vi
 ---
 
 ## System Architecture
-The project is divided into three core components:
-1. **AI Service (`WitchHunt`)**: A Python/FastAPI backend that manages image classification via the Gemini API.
-2. **Central Backend (`Node.js`)**: An Express server that handles data management, uploads, and real-time synchronization.
-3. **Mobile App (`Android`)**: A Jetpack Compose application that serves as the user interface for both individuals and companies.
+Our ecosystem is structured into three highly decoupled components ensuring scalability and real-time performance:
+
+<details>
+<summary><b>1️⃣ AI Service (<code>WitchHunt Engine</code>)</b></summary>
+<br>
+A robust <b>Python/FastAPI</b> backend managing complex image classification via the Gemini API.
+</details>
+
+<details>
+<summary><b>2️⃣ Central Backend (<code>Node.js</code>)</b></summary>
+<br>
+An <b>Express.js</b> server orchestrating data management, media uploads, and real-time synchronization.
+</details>
+
+<details>
+<summary><b>3️⃣ Mobile Client (<code>Android</code>)</b></summary>
+<br>
+A highly responsive <b>Jetpack Compose</b> application that dynamically adapts its UI for both individual users and corporate procurement teams.
+</details>
 
 ---
 
